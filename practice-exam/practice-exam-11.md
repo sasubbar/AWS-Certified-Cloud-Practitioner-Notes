@@ -403,7 +403,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS Migration Hub.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A
     </details>
 
 40. Which AWS service provides a customized view of the health of specific AWS services that power a customer’s workloads running on AWS?
