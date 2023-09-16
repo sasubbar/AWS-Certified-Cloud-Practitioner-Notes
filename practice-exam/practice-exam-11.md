@@ -217,7 +217,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. Providing a key for Amazon S3 client-side encryption.
     - B. Configuration of an Amazon EC2 instance.
     - C. Environmental controls of physical AWS data centers.
-    - D. Awareness.
+    - D. Awareness and Training.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
