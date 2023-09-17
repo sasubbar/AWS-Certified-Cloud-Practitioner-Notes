@@ -519,7 +519,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-31. Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?    - A. Amazon RDS
+31. Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?         - A. Amazon RDS
     - B. Amazon EC2
     - C. Amazon ElastiCache
     - D. AWS Fargate
@@ -556,7 +556,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: C
 
     Explanation:
 
