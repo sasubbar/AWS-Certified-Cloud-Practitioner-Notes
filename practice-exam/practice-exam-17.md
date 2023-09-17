@@ -449,7 +449,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: AB
 
     Explanation: <https://www.edureka.co/community/600/what-is-an-edge-location-in-aws>
 
