@@ -24,7 +24,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. AWS Classroom Training.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, E
+      Correct answer: C, E
     </details>
 
 3. Which of the following will enhance the security of access to the AWS Management Console’? (Select TWO)
