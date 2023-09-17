@@ -384,8 +384,7 @@ If this practice exam has been helpful to you please share it with others and re
     Explanation: <https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html>
 
     Reference: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>
-    
-    </details>
+     </details>
 
 30. Which of the following are AWS compute services? (Select two.)
     - A. Amazon Lightsail
