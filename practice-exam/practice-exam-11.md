@@ -88,7 +88,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Download the AWS Management Console for the new Region.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 9. Why is it beneficial to use Elastic Load Balancers with applications?
