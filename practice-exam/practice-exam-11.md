@@ -108,7 +108,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Basic
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A 
+      Correct answer: B 
     </details>
 
 11. What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?
