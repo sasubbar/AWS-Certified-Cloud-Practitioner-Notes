@@ -98,7 +98,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. They automatically adjust capacity. They are provided at no charge to users.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 10. Which is the MINIMUM AWS Support plan that allows for one-hour target response time for support cases?
