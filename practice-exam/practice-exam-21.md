@@ -341,9 +341,10 @@ If this practice exam has been helpful to you please share it with others and re
 
     Explanation: <https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-concepts.html>
 
+    Reference:  <https://aws.amazon.com/blogs/aws/use-cloudformation-stacksets-to-provision-resources-across-multiple-aws-accounts-and-regions>
     </details>
 
-25. A user would like to encrypt data that is received, stored, and managed by AWS CloudTrail. <br/> Which AWS service will provide this capability?
+26. A user would like to encrypt data that is received, stored, and managed by AWS CloudTrail. <br/> Which AWS service will provide this capability?
     - A. AWS Secrets Manager
     - B. AWS Systems Manager
     - C. AWS Key Management Service (AWS KMS)
@@ -357,7 +358,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-26. Which AWS Cloud benefit eliminates the need for users to try estimating future infrastructure usage?
+27. Which AWS Cloud benefit eliminates the need for users to try estimating future infrastructure usage?
     - A. Easy and fast deployment of applications in multiple Regions around the world
     - B. Security of the AWS Cloud
     - C. Elasticity of the AWS Cloud
@@ -369,7 +370,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-27. What credential components are required to gain programmatic access to an AWS account? (Choose two.)
+28. What credential components are required to gain programmatic access to an AWS account? (Choose two.)
     - A. An access key ID
     - B. A primary key
     - C. A secret access key
@@ -384,7 +385,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-28. Which of the following are AWS compute services? (Select two.)
+29. Which of the following are AWS compute services? (Select two.)
     - A. Amazon Lightsail
     - B. AWS Systems Manager
     - C. AWS CloudFormation
@@ -399,7 +400,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-29. How can a company separate costs for network traffic, Amazon EC2, Amazon S3, and other AWS services by department?
+30. How can a company separate costs for network traffic, Amazon EC2, Amazon S3, and other AWS services by department?
     - A. Add department-specific tags to each resource
     - B. Create a separate VPC for each department
     - C. Create a separate AWS account for each department
@@ -413,7 +414,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-30. What is a benefit of consolidated billing for AWS accounts?
+31. What is a benefit of consolidated billing for AWS accounts?
     - A. Access to AWS Personal Health Dashboard
     - B. Combined usage volume discounts
     - C. Improved account security
@@ -427,7 +428,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-31. Which AWS service will allow a user to set custom cost and usage limits, and will alert when the thresholds are exceeded?
+32. Which AWS service will allow a user to set custom cost and usage limits, and will alert when the thresholds are exceeded?
     - A. AWS Organizations
     - B. AWS Budgets
     - C. Cost Explorer
@@ -441,7 +442,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-32. Which AWS service provides the ability to detect inadvertent data leaks of personally identifiable information (PII) and user credential data?
+33. Which AWS service provides the ability to detect inadvertent data leaks of personally identifiable information (PII) and user credential data?
     - A. Amazon GuardDuty
     - B. Amazon Inspector
     - C. Amazon Macie
@@ -455,7 +456,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-33. Which tool can be used to monitor AWS service limits?
+34. Which tool can be used to monitor AWS service limits?
     - A. AWS Total Cost of Ownership (TCO) Calculator
     - B. AWS Trusted Advisor
     - C. AWS Personal Health Dashboard
@@ -469,7 +470,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-34. A company has distributed its workload on both the AWS Cloud and some on-premises servers. <br/> What type of architecture is this?
+35. A company has distributed its workload on both the AWS Cloud and some on-premises servers. <br/> What type of architecture is this?
     - A. Virtual private network
     - B. Virtual private cloud
     - C. Hybrid cloud
@@ -483,7 +484,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-35. Which of the following describes a security best practice that can be implemented using AWS IAM?
+36. Which of the following describes a security best practice that can be implemented using AWS IAM?
     - A. Disable AWS Management Console access for all users
     - B. Generate secret keys for every IAM user
     - C. Grant permissions to users who are required to perform a given task only
@@ -497,7 +498,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-36. What can be used to automate and manage secure, well-architected, multi-account AWS environments?
+37. What can be used to automate and manage secure, well-architected, multi-account AWS environments?
     - A. AWS shared responsibility model
     - B. AWS Control Tower
     - C. AWS Security Hub
@@ -515,7 +516,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-37. Which AWS service or feature allows a user to easily scale connectivity among thousands of VPCs?
+38. Which AWS service or feature allows a user to easily scale connectivity among thousands of VPCs?
     - A. VPC peering
     - B. AWS Transit Gateway
     - C. AWS Direct Connect
@@ -529,7 +530,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-38. A company needs protection from expanded distributed denial of service (DDoS) attacks on its website and assistance from AWS experts during such events. <br/> Which AWS managed service will meet these requirements?
+39. A company needs protection from expanded distributed denial of service (DDoS) attacks on its website and assistance from AWS experts during such events. <br/> Which AWS managed service will meet these requirements?
     - A. AWS Shield Advanced
     - B. AWS Firewall Manager
     - C. AWS WAF
@@ -543,7 +544,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-39. A company's application has flexible start and end times. <br/> Which Amazon EC2 pricing model will be the MOST cost-effective?
+40. A company's application has flexible start and end times. <br/> Which Amazon EC2 pricing model will be the MOST cost-effective?
     - A. On-Demand Instances
     - B. Spot Instances
     - C. Reserved Instances
@@ -557,7 +558,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-40. Under the AWS shared responsibility model, what are the customer's responsibilities? (Choose two.)
+41. Under the AWS shared responsibility model, what are the customer's responsibilities? (Choose two.)
     - A. Physical and environmental security
     - B. Physical network devices including firewalls
     - C. Storage device decommissioning
@@ -570,7 +571,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-41. A cloud practitioner has a data analysis workload that is infrequently executed and can be interrupted without harm. To optimize for cost, which Amazon EC2 purchasing option should be used?
+42. A cloud practitioner has a data analysis workload that is infrequently executed and can be interrupted without harm. To optimize for cost, which Amazon EC2 purchasing option should be used?
     - A. On-Demand Instances
     - B. Reserved Instances
     - C. Spot Instances
@@ -584,7 +585,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-42. Which AWS container service will help a user install, operate, and scale the cluster management infrastructure?
+43. Which AWS container service will help a user install, operate, and scale the cluster management infrastructure?
     - A. Amazon Elastic Container Registry (Amazon ECR)
     - B. AWS Elastic Beanstalk
     - C. Amazon Elastic Container Service (Amazon ECS)
@@ -596,7 +597,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-43. Which of the following allows an application running on an Amazon EC2 instance to securely write data to an Amazon S3 bucket without using long term credentials?
+44. Which of the following allows an application running on an Amazon EC2 instance to securely write data to an Amazon S3 bucket without using long term credentials?
     - A. Amazon Cognito
     - B. AWS Shield
     - C. AWS IAM role
@@ -608,7 +609,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-44. A company with a Developer-level AWS Support plan provisioned an Amazon RDS database and cannot connect to it. <br/> Who should the developer contact for this level of support?
+45. A company with a Developer-level AWS Support plan provisioned an Amazon RDS database and cannot connect to it. <br/> Who should the developer contact for this level of support?
     - A. AWS Support using a support case
     - B. AWS Professional Services
     - C. AWS technical account manager
@@ -620,7 +621,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-45. What is the purpose of having an internet gateway within a VPC?
+46. What is the purpose of having an internet gateway within a VPC?
     - A. To create a VPN connection to the VPC
     - B. To allow communication between the VPC and the Internet
     - C. To impose bandwidth constraints on internet traffic
@@ -632,7 +633,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-46. A company must ensure that its endpoint for a database instance remains the same after a single Availability Zone service interruption. The application needs to resume database operations without the need for manual administrative intervention. <br/> How can these requirements be met?
+47. A company must ensure that its endpoint for a database instance remains the same after a single Availability Zone service interruption. The application needs to resume database operations without the need for manual administrative intervention. <br/> How can these requirements be met?
     - A. Use multiple Amazon Route 53 routes to the standby database instance endpoint hosted on AWS Storage Gateway.
     - B. Configure Amazon RDS Multi-Availability Zone deployments with automatic failover to the standby.
     - C. Add multiple Application Load Balancers and deploy the database instance with AWS Elastic Beanstalk.
@@ -644,7 +645,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-47. Which AWS managed service can be used to distribute traffic between one or more Amazon EC2 instances?
+48. Which AWS managed service can be used to distribute traffic between one or more Amazon EC2 instances?
     - A. NAT gateway
     - B. Elastic Load Balancing
     - C. Amazon Athena
@@ -656,7 +657,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-48. AWS Trusted Advisor provides recommendations on which of the following? (Choose two.)
+49. AWS Trusted Advisor provides recommendations on which of the following? (Choose two.)
     - A. Cost optimization
     - B. Auditing
     - C. Serverless architecture
@@ -669,7 +670,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-49. Which of the following tasks can only be performed after signing in with AWS account root user credentials? (Choose two.)
+50. Which of the following tasks can only be performed after signing in with AWS account root user credentials? (Choose two.)
     - A. Closing an AWS account
     - B. Creating a new IAM policy
     - C. Changing AWS Support plans
@@ -682,7 +683,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-50. Fault tolerance refers to:
+51. Fault tolerance refers to:
     - A. the ability of an application to accommodate growth without changing design
     - B. how well and how quickly an application's environment can have lost data restored
     - C. how secure your application is
