@@ -691,7 +691,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: BC
 
     Explanation: <https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf>
 
